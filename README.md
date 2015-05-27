@@ -1,2 +1,2 @@
 # Bulls-Eye-Game
-iOS practice - Little bulls eye game app. (Object-C)
+iOS practice - A small game where users try to guess the position of an image on a slider.
